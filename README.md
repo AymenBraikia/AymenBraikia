@@ -48,7 +48,7 @@
 
 <h2>My Portfolio 👇</h2>
 <a href="https://portfolio-kappa-swart-14.vercel.app/">
-  <img src="https://i.ibb.co/HpFYdngv/Screenshot-2025-06-04-234108.png" alt="portfolio img"></img>
+  <img src="./assets/portfolio.png" alt="portfolio img"></img>
 </a>
 
 ###
