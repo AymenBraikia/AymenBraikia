@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Aymen and I'm a Fullstack Developer, from Algeria</h1>
+<h1 align="left">Hi 👋! I'm Aymen a Fullstack Developer, from Algeria</h1>
 
 ###
 
