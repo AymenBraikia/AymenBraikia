@@ -70,11 +70,13 @@
 <h2>Learning 💡</h2>
 <div>
  <img width="12" />
-  <img src="https://www.svgrepo.com/show/452093/redux.svg" height="30" alt="git logo"  />
+  <img src="https://www.svgrepo.com/show/452093/redux.svg" height="30" alt="redux logo"  />
  <img width="12" />
-  <img src="https://www.svgrepo.com/show/374126/testjs.svg" height="30" alt="git logo"  />
- <img width="12" />
-  <img src="https://www.svgrepo.com/show/448266/aws.svg" height="30" alt="git logo"  />
+  <img src="https://www.svgrepo.com/show/374126/testjs.svg" height="30" alt="jest logo"  />
+  <img width="12" />
+    <img src="https://www.svgrepo.com/show/448266/aws.svg" height="30" alt="aws logo"  />
+  <img width="12" />
+    <img src="./assets//jwtpng.png" height="30" width="30" alt="jwt logo"  />
 </div>
 
 ###
