@@ -53,6 +53,18 @@
 
 ###
 
+<h2>Other projects i made 😏</h2>
+<a href="https://neuro-aymens-projects-a9014767.vercel.app/">
+  <img src="./assets/neuro.png" alt="neuro img"></img>
+</a>
+<br/>
+
+<a href="">
+  <img src="./assets/easyMart.png" alt="Easy Mart img"></img>
+</a>
+
+###
+
 <h2>Little Snake Animation 🐍</h2>
 
 <picture>
