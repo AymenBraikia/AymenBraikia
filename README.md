@@ -79,6 +79,17 @@
 
 ###
 
+<h2>Hobbies 😄</h2>
+
+<ul>
+    <li>Coding 👨‍💻</li>
+    <li>Chess ♟️</li>
+    <li>Gaming 🎮</li>
+    <li>Workout 🦵</li>
+</ul>
+
+###
+
 <h2>Little Snake Animation 🐍</h2>
 
 <picture>
