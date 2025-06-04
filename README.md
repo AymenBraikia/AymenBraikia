@@ -33,7 +33,7 @@
 
 <div align="left">
   <a title="discord" href="https://discordapp.com/users/575694097898012672" target="_blank">
-    <img src="https://www.svgrepo.com/show/452188/discord.svg" height="35" alt="discord logo"  />
+    <img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" height="35" alt="discord logo"  />
   </a>
   <a title="gmail" href="https://mail.google.com/mail/u/0/?fs=1&to=aymenbraikia1@gmail.com&tf=cm" target="_blank">
     <img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height="35" alt="gmail logo"  />
