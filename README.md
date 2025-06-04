@@ -1,4 +1,10 @@
-<h1 align="left">Hi 👋! My name is Aymen and I'm a <span color="cyan">Fullstack Developer</span>, from Algeria</h1>
+<h1 align="left">Hi 👋! My name is Aymen and I'm a <span class="test">Fullstack Developer</span>, from Algeria</h1>
+
+<style>
+  .test{
+     color: cyan
+  }
+</style>
 
 ###
 
