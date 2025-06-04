@@ -5,8 +5,6 @@ document.querySelector(".test").style.color = "cyan"
 
 console.log("test");
 
-```
-
 
 ###
 
