@@ -26,7 +26,7 @@
 </div>
 
 ###
-<h2 align="left">Hi 👋! My name is Aymen and I'm a Fullstack Developer, from Algeria</h2>
+<h2 align="left">Social Media 😁</h2>
 
 
 <div align="left">
