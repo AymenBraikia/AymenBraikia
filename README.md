@@ -44,6 +44,8 @@
 
 ###
 
+<h2>Little Snake Animation 🐍</h2>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AymenBraikia/AymenBraikia/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AymenBraikia/AymenBraikia/output/github-snake.svg" />
