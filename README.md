@@ -2,6 +2,8 @@
 
 ###
 
+<h2>Skills and expertise 💪</h2>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
@@ -26,8 +28,8 @@
 </div>
 
 ###
-<h2 align="left">Social Media 😁</h2>
 
+<h2 align="left">Social Media 😁</h2>
 
 <div align="left">
   <a title="discord" href="https://discordapp.com/users/575694097898012672" target="_blank">
