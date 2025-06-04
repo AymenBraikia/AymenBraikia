@@ -25,7 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-### Social Media:
+###
+<h2 align="left">Hi 👋! My name is Aymen and I'm a Fullstack Developer, from Algeria</h2>
+
 
 <div align="left">
   <a title="discord" href="https://discordapp.com/users/575694097898012672" target="_blank">
