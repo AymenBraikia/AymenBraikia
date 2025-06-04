@@ -68,10 +68,12 @@
 ###
 
 <h2>Learning 💡</h2>
+<div>
  <img width="12" />
   <img src="https://www.svgrepo.com/show/452093/redux.svg" height="30" alt="git logo"  />
  <img width="12" />
   <img src="https://www.svgrepo.com/show/374126/testjs.svg" height="30" alt="git logo"  />
+</div>
 
 ###
 
