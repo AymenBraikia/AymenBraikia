@@ -69,7 +69,9 @@
 
 <h2>Learning 💡</h2>
  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://www.svgrepo.com/show/452093/redux.svg" height="30" alt="git logo"  />
+ <img width="12" />
+  <img src="https://www.svgrepo.com/show/374126/testjs.svg" height="30" alt="git logo"  />
 
 ###
 
