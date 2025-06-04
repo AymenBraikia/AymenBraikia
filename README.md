@@ -32,14 +32,14 @@
 <h2 align="left">Social Media 😁</h2>
 
 <div align="left">
-  <a style='text-decoration:"none"' title="discord" href="https://discordapp.com/users/575694097898012672" target="_blank">
+  <a title="discord" href="https://discordapp.com/users/575694097898012672" target="_blank">
     <img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" height="35" alt="discord logo"  />
   </a>
-  <a style='text-decoration:"none"' title="gmail" href="https://mail.google.com/mail/u/0/?fs=1&to=aymenbraikia1@gmail.com&tf=cm" target="_blank">
+  <a title="gmail" href="https://mail.google.com/mail/u/0/?fs=1&to=aymenbraikia1@gmail.com&tf=cm" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="35" alt="gmail logo"  />
     <!-- <img src ="https://www.svgrepo.com/show/452213/gmail.svg" height="35" alt="gmail logo"  /> -->
   </a>
-  <a style='text-decoration:"none"' title="linkedin" href="https://www.linkedin.com/in/aymenbraikia/" target="_blank">
+  <a title="linkedin" href="https://www.linkedin.com/in/aymenbraikia/" target="_blank">
     <img src="https://www.svgrepo.com/show/157006/linkedin.svg" height="35" alt="linkedin logo"  />
   </a>
 </div>
@@ -47,7 +47,10 @@
 ###
 
 <h2>My Portfolio 👇</h2>
-<a href="https://portfolio-kappa-swart-14.vercel.app/">Click here</a>
+<a href="https://portfolio-kappa-swart-14.vercel.app/">
+  <img src="https://i.ibb.co/cXgtLDT5/Screenshot-2025-06-04-234108.png" alt="portfolio img"></img>
+</a>
+
 
 ###
 
