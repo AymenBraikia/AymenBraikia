@@ -36,7 +36,7 @@
     <img src="https://static-00.iconduck.com/assets.00/discord-icon-2048x2048-nnt62s2u.png" height="35" alt="discord logo"  />
   </a>
   <a title="gmail" href="https://mail.google.com/mail/u/0/?fs=1&to=aymenbraikia1@gmail.com&tf=cm" target="_blank">
-    <img src="https://images.icon-icons.com/730/PNG/512/gmail_icon-icons.com_62758.png" height="35" alt="gmail logo"  />
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="35" alt="gmail logo"  />
     <!-- <img src ="https://www.svgrepo.com/show/452213/gmail.svg" height="35" alt="gmail logo"  /> -->
   </a>
   <a title="linkedin" href="https://www.linkedin.com/in/aymenbraikia/" target="_blank">
