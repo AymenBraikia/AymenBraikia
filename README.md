@@ -1,4 +1,12 @@
 <h1 align="left">Hi 👋! My name is Aymen and I'm a <span class="test">Fullstack Developer</span>, from Algeria</h1>
+```js
+
+document.querySelector(".test").style.color = "cyan"
+
+console.log("test");
+
+```
+
 
 ###
 
@@ -72,3 +80,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AymenBraikia/AymenBraikia/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/AymenBraikia/AymenBraikia/output/github-snake.svg" />
 </picture>
+```
