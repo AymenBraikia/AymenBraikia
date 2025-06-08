@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   
   <img width="12" />
-  <img src="./assets//jwtpng.png" height="30" width="30" alt="jwt logo"  />
+  <img src="./assets//jwt.png" height="30" width="30" alt="jwt logo"  />
 </div>
 
 ###
