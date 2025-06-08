@@ -35,7 +35,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   
   <img width="12" />
-  <img src="./assets//jwt.png" height="30" width="30" alt="jwt logo"  />
+  <img src="./assets/jwt.png" height="30" width="30" alt="jwt logo"  />
+  
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/448222/figma.svg" height="30" width="30" alt="figma logo"  />
+  
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/448236/linux.svg" height="30" width="30" alt="linux logo"  />
 </div>
 
 ###
